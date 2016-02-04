@@ -1,0 +1,30 @@
+{
+  "name": "angular-table-component",
+  "version": "1.0.0",
+  "description": "Provide a table component which acts as a table, including a TableManager, FilterManager and StateService.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruce17/angular-table-component.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "table",
+    "component",
+    "es6"
+  ],
+  "author": {
+    "name": "Michael Raith",
+    "email": "mia87@web.de",
+    "url": "https://github.com/Bruce17"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bruce17/angular-table-component/issues"
+  },
+  "homepage": "https://github.com/Bruce17/angular-table-component#readme"
+}
